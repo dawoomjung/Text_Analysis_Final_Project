@@ -50,12 +50,12 @@ Additionally, while word clouds provide a broad overview of word frequency, they
 ### Results
 Please find the Code here: Final_Project.ipynb
 
-Word Cloud of the News Articles prior to the 2016 Nuclear test
+Word Cloud of the News Articles prior to the 2016 Nuclear test:
 
 ![Test word cloud](https://github.com/dawoomjung/Text_Analysis_Final_Project/assets/144920770/a979bcca-1ebc-4375-9164-7631d9e090eb)
 
 
-Word Cloud of the Control Time Perios from Dec 14, 2023 to Dec 21, 2023.
+Word Cloud of the Control Time Perios from Dec 14, 2023 to Dec 21, 2023:
 
 ![Control Word Cloud](https://github.com/dawoomjung/Text_Analysis_Final_Project/assets/144920770/23c461c2-4bc0-419a-82c5-3ac7d429430b)
 
